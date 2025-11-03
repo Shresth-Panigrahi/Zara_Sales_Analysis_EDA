@@ -176,22 +176,6 @@ seaborn>=0.12.0
 scikit-learn>=1.2.0
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new features
-- Submit pull requests
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 👤 Author
-
-**Senior ML Developer**
-- Project Date: November 2025
-
 ## 🙏 Acknowledgments
 
 - Dataset: Zara Sales Data
