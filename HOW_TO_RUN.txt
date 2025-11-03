@@ -1,0 +1,63 @@
+================================================================================
+ZARA SALES ANALYSIS - ML PROJECT WITH PCA
+================================================================================
+
+QUICK START:
+------------
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the complete analysis:
+   python complete_zara_analysis.py
+
+   OR use Jupyter Notebook:
+   jupyter notebook Zara_Sales_Complete_Analysis.ipynb
+
+WHAT THIS PROJECT DOES:
+------------------------
+✓ Data Cleaning & Missing Values Handling
+✓ Univariate Analysis (Numerical & Categorical)
+✓ Bivariate Analysis (Correlations & Relationships)
+✓ Feature Engineering (New features creation)
+✓ Principal Component Analysis (PCA) - Dimensionality Reduction
+✓ Machine Learning Models:
+  - Linear Regression
+  - Ridge Regression
+  - Random Forest
+  - Gradient Boosting
+✓ PCA-based Models (Random Forest & Gradient Boosting with reduced features)
+✓ Model Comparison & Evaluation
+✓ 13 High-Quality Visualizations
+
+OUTPUT FILES GENERATED:
+-----------------------
+• univariate_numerical.png
+• univariate_categorical.png
+• correlation_matrix.png
+• bivariate_price_sales.png
+• bivariate_categorical.png
+• feature_engineering.png
+• pca_variance_explained.png
+• pca_2d_visualization.png
+• pca_loadings.png
+• model_comparison.png
+• predictions_comparison.png
+• residual_plots.png
+• feature_importance.png
+
+EXPECTED RUNTIME:
+-----------------
+5-10 minutes (depending on your hardware)
+
+REQUIREMENTS:
+-------------
+- Python 3.8+
+- pandas, numpy, matplotlib, seaborn, scikit-learn
+- See requirements.txt for full list
+
+DATASET:
+--------
+Zara_sales_EDA.csv (must be in the same directory)
+
+================================================================================
